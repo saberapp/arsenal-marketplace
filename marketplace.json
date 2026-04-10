@@ -10,7 +10,7 @@
   },
   "plugins": [
     {
-      "name": "arsenal",
+      "name": "saber-arsenal",
       "source": {
         "source": "url",
         "url": "https://github.com/saberapp/arsenal.git"
