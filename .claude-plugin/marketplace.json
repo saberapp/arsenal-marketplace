@@ -10,12 +10,12 @@
   },
   "plugins": [
     {
-      "name": "saber-arsenal",
+      "name": "saber-skills",
       "source": {
         "source": "url",
-        "url": "https://github.com/saberapp/arsenal.git"
+        "url": "https://github.com/saberapp/skills.git"
       },
-      "description": "Saber Arsenal \u2014 GTM and RevOps skills for Claude Code, powered by the Saber CLI",
+      "description": "Saber Skills — GTM and RevOps skills for Claude Code, by Saber",
       "version": "0.1.0",
       "strict": true
     }
